@@ -1,0 +1,94 @@
+[cluster] Restarting...
+Clustering enabled: Spinning up 1 process(es).
+
+[cluster] Child Process (10100) has exited (code: null, signal: SIGTERM)
+2018-04-10T08:37:02.432Z [10972] - [32minfo[39m: Initializing NodeBB v1.7.5 http://127.0.0.1:4567
+2018-04-10T08:37:04.333Z [10972] - [32minfo[39m: [socket.io] Restricting access to origin: http://127.0.0.1:*
+2018-04-10T08:37:04.622Z [10972] - [32minfo[39m: Routes added
+2018-04-10T08:37:04.631Z [10972] - [32minfo[39m: NodeBB Ready
+2018-04-10T08:37:04.632Z [10972] - [32minfo[39m: Enabling 'trust proxy'
+2018-04-10T08:37:04.635Z [10972] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:4567
+lixj007
+[cluster] Restarting...
+Clustering enabled: Spinning up 1 process(es).
+
+[cluster] Child Process (10972) has exited (code: null, signal: SIGTERM)
+2018-04-10T08:37:54.661Z [5572] - [32minfo[39m: Initializing NodeBB v1.7.5 http://127.0.0.1:4567
+2018-04-10T08:37:56.591Z [5572] - [32minfo[39m: [socket.io] Restricting access to origin: http://127.0.0.1:*
+2018-04-10T08:37:56.879Z [5572] - [32minfo[39m: Routes added
+2018-04-10T08:37:56.889Z [5572] - [32minfo[39m: NodeBB Ready
+2018-04-10T08:37:56.890Z [5572] - [32minfo[39m: Enabling 'trust proxy'
+2018-04-10T08:37:56.894Z [5572] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:4567
+lixj
+  started
+2018-04-10T08:40:56.438Z [5572] - [32minfo[39m: [build] Building in parallel mode
+2018-04-10T08:40:56.439Z [5572] - [32minfo[39m: [build]         plugin static dirs  build started
+2018-04-10T08:40:56.441Z [5572] - [32minfo[39m: [build]          requirejs modules  build started
+2018-04-10T08:40:56.442Z [5572] - [32minfo[39m: [build]           client js bundle  build started
+2018-04-10T08:40:56.444Z [5572] - [32minfo[39m: [build]            admin js bundle  build started
+2018-04-10T08:40:56.445Z [5572] - [32minfo[39m: [build]         client side styles  build started
+2018-04-10T08:40:56.445Z [5572] - [32minfo[39m: [build] admin control panel styles  build started
+2018-04-10T08:40:56.447Z [5572] - [32minfo[39m: [build]                  templates  build started
+2018-04-10T08:40:56.447Z [5572] - [32minfo[39m: [build]                  languages  build started
+2018-04-10T08:40:56.447Z [5572] - [32minfo[39m: [build]                     sounds  build started
+Witout `from` option PostCSS could generate wrong source map or do not find Browserslist config. Set it to CSS file path or to `undefined` to prevent this warning
+2018-04-10T08:41:01.400Z [5572] - [32minfo[39m: [build]           client js bundle  build completed in 4.957sec
+2018-04-10T08:41:01.400Z [5572] - [32minfo[39m: [build]            admin js bundle  build completed in 4.956sec
+2018-04-10T08:41:01.548Z [5572] - [32minfo[39m: [build]                     sounds  build completed in 5.101sec
+2018-04-10T08:41:02.472Z [5572] - [32minfo[39m: [build]         plugin static dirs  build completed in 6.033sec
+2018-04-10T08:41:02.970Z [5572] - [32minfo[39m: [build] admin control panel styles  build completed in 6.525sec
+Witout `from` option PostCSS could generate wrong source map or do not find Browserslist config. Set it to CSS file path or to `undefined` to prevent this warning
+2018-04-10T08:41:05.627Z [5572] - [32minfo[39m: [build]         client side styles  build completed in 9.181sec
+2018-04-10T08:41:10.790Z [5572] - [32minfo[39m: [build]          requirejs modules  build completed in 14.349sec
+2018-04-10T08:41:13.790Z [5572] - [32minfo[39m: [build]                  languages  build completed in 17.343sec
+Missing translation "admin/menu:manage/uploads"
+Missing translation "admin/menu:manage/uploads"
+Missing translation "admin/menu:manage/uploads"
+Missing translation "admin/menu:manage/uploads"
+2018-04-10T08:41:13.837Z [5572] - [32minfo[39m: [build]                  templates  build completed in 17.39sec
+2018-04-10T08:41:13.840Z [5572] - [32minfo[39m: [build] Asset compilation successful. Completed in 17.399sec.
+[cluster] Restarting...
+Clustering enabled: Spinning up 1 process(es).
+
+[cluster] Child Process (5572) has exited (code: null, signal: SIGTERM)
+2018-04-10T08:41:15.064Z [9564] - [32minfo[39m: Initializing NodeBB v1.7.5 http://127.0.0.1:4567
+2018-04-10T08:41:18.372Z [9564] - [32minfo[39m: [socket.io] Restricting access to origin: http://127.0.0.1:*
+2018-04-10T08:41:18.700Z [9564] - [32minfo[39m: Routes added
+2018-04-10T08:41:18.709Z [9564] - [32minfo[39m: NodeBB Ready
+2018-04-10T08:41:18.710Z [9564] - [32minfo[39m: Enabling 'trust proxy'
+2018-04-10T08:41:18.713Z [9564] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:4567
+Missing translation "admin/menu:plugins/emoji"
+lixj
+lixj007
+lixj
+lixj
+Missing translation "admin/menu:manage/uploads"
+Missing translation "admin/menu:manage/uploads"
+[cluster] Restarting...
+Clustering enabled: Spinning up 1 process(es).
+
+[cluster] Child Process (9564) has exited (code: null, signal: SIGTERM)
+2018-04-10T08:47:53.341Z [8968] - [32minfo[39m: Initializing NodeBB v1.7.5 http://127.0.0.1:4567
+2018-04-10T08:47:55.430Z [8968] - [32minfo[39m: [socket.io] Restricting access to origin: http://127.0.0.1:*
+2018-04-10T08:47:55.735Z [8968] - [32minfo[39m: Routes added
+2018-04-10T08:47:55.744Z [8968] - [32minfo[39m: NodeBB Ready
+2018-04-10T08:47:55.746Z [8968] - [32minfo[39m: Enabling 'trust proxy'
+2018-04-10T08:47:55.748Z [8968] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:4567
+1lixj
+2018-04-10T08:51:49.088Z [8968] - [32minfo[39m: [app] Restarting...
+[cluster] Restarting...
+Clustering enabled: Spinning up 1 process(es).
+
+[cluster] Child Process (8968) has exited (code: null, signal: SIGTERM)
+2018-04-10T08:51:49.832Z [5644] - [32minfo[39m: Initializing NodeBB v1.7.5 http://127.0.0.1:4567
+2018-04-10T08:51:51.262Z [5644] - [32minfo[39m: [app] Restarting...
+[cluster] Restarting...
+Clustering enabled: Spinning up 1 process(es).
+
+[cluster] Child Process (5644) has exited (code: null, signal: SIGTERM)
+2018-04-10T08:51:52.033Z [10804] - [32minfo[39m: Initializing NodeBB v1.7.5 http://127.0.0.1:4567
+2018-04-10T08:51:53.935Z [10804] - [32minfo[39m: [socket.io] Restricting access to origin: http://127.0.0.1:*
+2018-04-10T08:51:54.261Z [10804] - [32minfo[39m: Routes added
+2018-04-10T08:51:54.270Z [10804] - [32minfo[39m: NodeBB Ready
+2018-04-10T08:51:54.271Z [10804] - [32minfo[39m: Enabling 'trust proxy'
+2018-04-10T08:51:54.275Z [10804] - [32minfo[39m: NodeBB is now listening on: 0.0.0.0:4567
